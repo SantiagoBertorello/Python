@@ -1,11 +1,11 @@
 
-#siguiendo trabajo de 12 different Python project tutorials.by Kylie Ying.
+#siguiendo trabajo de: 12 different Python project tutorials.by Kylie Ying.
 #https://www.youtube.com/watch?v=8ext9G7xspg&t=100s&ab_channel=freeCodeCamp.org
 #----------
 #formas de concatenación string
 #Hay tres formas.
 ##Supongamos que queremos crear un string que diga "suscribe to ______"
-#youtuber = "Santiago Bertorello" #variable	
+#Alumno = "Santiago Bertorello" #variable	
 
 #print("suscribe to " + youtuber)
 #print("suscribe to {}".format(youtuber))
